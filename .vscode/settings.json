@@ -1,0 +1,18 @@
+{
+    "spectraCode.commandPaletteChange": true,
+    "spectraCode.menuBarChange": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#448a0e",
+        "notifications.background": "#448a0e",
+        "activityBar.inactiveForeground": "#181818AA",
+        "activityBar.foreground": "#181818",
+        "notifications.foreground": "#181818",
+        "quickInput.background": "#448a0e",
+        "quickInput.foreground": "#181818",
+        "list.hoverBackground": "#181818AA",
+        "titleBar.activeBackground": "#448a0eC4",
+        "titleBar.activeForeground": "#181818",
+        "titleBar.inactiveBackground": "#448a0e68",
+        "titleBar.inactiveForeground": "#181818"
+    }
+}
